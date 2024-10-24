@@ -21,7 +21,7 @@ This bot tracks server messages and provides user statistics and leaderboards.
 [![image.png](https://i.postimg.cc/8CmHFF9n/image.png)](https://postimg.cc/NyLTS0g1)
 [![image.png](https://i.postimg.cc/L4bVZFQR/image.png)](https://postimg.cc/F10S28Qn)
 [![image.png](https://i.postimg.cc/Qtnc5cbS/image.png)](https://postimg.cc/HcXJ1cF7)
-![https://drive.google.com/file/d/13iJ52VoSS4VeAdrh16NTEj64o_QYTZiD/view?usp=sharing](https://drive.google.com/file/d/13iJ52VoSS4VeAdrh16NTEj64o_QYTZiD/view?usp=sharing)
+https://github.com/user-attachments/assets/bbcbca6c-9496-47ab-ba5d-3df0a1b3699b
 
 > [!TIP]
 > Make sure the bot is online and has the right permissions for smooth operation.
