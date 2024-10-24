@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/317d28fe-c421-472b-b823-377d7045e8b8)# Message Tracking Bot
+# Message Tracking Bot
 
 This bot tracks server messages and provides user statistics and leaderboards.
 
