@@ -1,4 +1,4 @@
-# Message Tracking Bot
+![image](https://github.com/user-attachments/assets/317d28fe-c421-472b-b823-377d7045e8b8)# Message Tracking Bot
 
 This bot tracks server messages and provides user statistics and leaderboards.
 
@@ -17,6 +17,13 @@ This bot tracks server messages and provides user statistics and leaderboards.
 - `/statistics [user]`: Shows message stats for the specified user or the invoker.
 - `/leaderboard`: Displays the top 10 most active users.
 
-Make sure the bot is online and has the right permissions for smooth operation.
+## Assets
+[![image.png](https://i.postimg.cc/8CmHFF9n/image.png)](https://postimg.cc/NyLTS0g1)
+[![image.png](https://i.postimg.cc/L4bVZFQR/image.png)](https://postimg.cc/F10S28Qn)
+[![image.png](https://i.postimg.cc/Qtnc5cbS/image.png)](https://postimg.cc/HcXJ1cF7)
+![https://drive.google.com/file/d/13iJ52VoSS4VeAdrh16NTEj64o_QYTZiD/view?usp=sharing](https://drive.google.com/file/d/13iJ52VoSS4VeAdrh16NTEj64o_QYTZiD/view?usp=sharing)
+
+> [!TIP]
+> Make sure the bot is online and has the right permissions for smooth operation.
 
 https://discord.com/oauth2/authorize?client_id=1298958544711847986&scope=bot&permissions=8
