@@ -9,6 +9,9 @@ This bot tracks server messages and provides user statistics and leaderboards.
 
 ## Setup for Server Admins
 1. **Invite the Bot**: Use the provided OAuth2 link to add the bot to your server.
+2. **Configure Bot Roles**: If necessary, create a dedicated role for the bot and assign it appropriate permissions to manage its functionality better.
+3. **Check Bot Status**: Verify that the bot appears online in your server and is responsive to commands.
+4. **Test Commands**: Once the bot is set up, use the `/statistics` and `/leaderboard` commands to ensure everything is functioning as expected.
 
 ## Commands
 - `/statistics [user]`: Shows message stats for the specified user or the invoker.
